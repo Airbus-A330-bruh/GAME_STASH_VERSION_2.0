@@ -1,6 +1,23 @@
 Welcome to THE qwertyairbus GAME STASH, WHERE HACKS AND PROXIES  AND PEOPLE TIRED OF SCHOOL BLOCKING THINGS  
 
+SERVICEWORKER METHOD:
+this works on ANY admin extension blocksi goguardian iboss lightspeed, and MORE
 
+Requirements(simple almost every chromebook has this)make sure developer tools is blocked, if u dont know if it is or not press ctrl + shift + i on any website and if a menu in the bottom doesnt pop up then its disabled
+
+1. go to chrome://serviceworker-internals
+
+2. enable Open DevTools window and pause JavaScript execution on Service Worker startup for debugging.
+
+3. scroll down till u see the chrome extension ID of your adming extension or copy it then press ctrl + f on the serviceworker page and paste it in then hit enter and it will show u it
+
+4. press stop then unregister
+
+5. some websites wont load up. use https://search.brave.com/ and search up EVERYTHING and open ALL links from there and it will fix any website that uses serviceworker not loading
+
+6. some websites even with brave will take around 10 seconds to load up even after using brave dont worry it still works
+
+7. this resets every time u restart your computer so make sure u do this everytime u restart ur computer or if a website is still blocked
 
 
 
