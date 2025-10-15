@@ -128,6 +128,8 @@ https://bellard.org/jslinux/vm.html?url=win2k.cfg&mem=192&graphic=1&w=1024&h=768
 
 
 https://unblockedgamesg.net/ 
+https://sites.google.com/view/whitespider/mirrors - nettle web links 
+https://docs.google.com/document/d/1tIQuDcHvuptSb7dmyMsesI-vRtIRPrSZU5WFFPaVwAQ/edit?tab=t.0#heading=h.13iegvoj13r7
 https://sites.google.com/view/fractions-are-cool - fraction tools, simplify and multiply fraction calculator. I swear it's not a game 
 https://sites.google.com/view/parts-of-a-cell - cell part notes 
 https://sites.google.com/view/classroom6x 
