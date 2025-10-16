@@ -642,3 +642,131 @@ https://opium-games.com/
 https://opium.cybriatech.dev/
 https://opium-games.onrender.com/
 https://bewildered-tweed-jacket-pike.cyclic.app/ 
+  WELCOME  TO THE IEJ        GAME STASH, WHERE HACKS AND PROXIES  AND PEOPLE TIRED OF SCHOOL BLOCKING THINGS  
+
+
+ALL LINKS HAVE BEEN CHECKED FOR MALICIOUS FILES AND VIRUSES 
+
+
+
+THIS IS  A COMPLETELY FREE LIST
+IF YOU PAID  FOR THIS, YOU HAVE BEEN SCAMMED AND YOU SHOULD DEMAND  A REFUND
+
+
+DISCLAIMER- I DO  CLAIM OWNERSHIP OF THESE LINKS. MOST OF THESE LINKS ARE NOT MINE! 
+BY EVERYONE yee. Wow you found cool easter egg
+     
+
+
+Don’t mess anything up; just use the links and add more as needed. 
+
+          IEJ HOLY  Ultimate Game Stash no don't use this. The official is much better and updated
+ 
+Guys, I have some news 
+https://www.documentcloud.org/documents/6250471-Epstein-Docs/.
+More illegal files, well just one more https://www.justice.gov/usao-sdny/media/1368556/dl  aint no party like 
+a diddy party 
+Oh yeah, one more file https://www.scribd.com/document/673393994/The-GTA-VI-Document-v1-0. your welcome     
+The people who are the Epstein files warning illegal BUT STILL CLICK ON IT I DARE https://www.ndtv.com/world-news/jeffrey-epstein-epstein-files-full-list-of-high-profile-people-named-in-unsealed-court-docs-4810003.  
+
+
+
+
+
+
+
+
+
+
+https://docs.google.com/document/d/1_FmH3BlSBQI7FGgAQL59-ZPe8eCxs35wel6JUyVaG8Q/edit?tab=t.0 - This is for online use, as most games require an internet connection to function. Some may not work. This is where you find most of the games and utilities. 
+
+https://eaglercraft.com/mc/1.8.8/ - RIP (it's blocked; get the HTML file instead..) Update - The HTML files are on the stash, but they are broken again. https://eaglecraft.global.ssl.fastly.net/ - WORKING MINERCRAFT. Just change the Wi-Fi to guest.
+
+https://turnfight.com - sometimes works, but I'm not sure anymore.   
+
+https://artmathandmore.7s.com.tr/ - prolly never gonna get blocked bruh
+
+https://softbear.com/  - most games are blocked.   All games are blocked.
+
+h@cks and pr0xys. This is good, don't let it get blocked OR ELSE.. it has op some options
+ Rammers 6, 8, and 9 work sometimes. 
+
+source code viewer  - can't get blocked, not a game 
+
+https://sites.google.com/view/sirpotatoesmathclass/home - British lad. Teaches you how to get inspect element
+
+Russian g@me website- also not blocked yet somehow  
+
+https://linktracker.thepizzaedition.workers.dev/api/links - more links to pizzas
+
+https://deepestswordonline.github.io/go/class-439.html - more games 
+
+https://sites.google.com/view/drive-u-7-home/gta-mods - even more games
+
+https://sites.google.com/classroom.center/view/ - please don't use this backup unless the others are blocked; this is a backup after all.
+https://github.com/ading2210/sandstone/releases/tag/v0.2.0 sandstone download
+
+https://dojq2hudgo7sk.cloudfront.net/g/gladihoppers/index.html new pizza edition link
+
+https://funner.global.ssl.fastly.net/games/alotofgames/ is very good, as it offers a wide range of games. All of them work, but the link does not work on school wifi. Use another wifi
+
+https://www.myandroid.org/run/start.phphttps://www.myandroid.org/run/start.php  - Android emulator, might instal 10^1e viruses on your computer but its worth it anyway
+
+https://puginarug.com/ - not the best game, I assure you it's bunz NO ITS THE BEST GAME DONT LISTEN TO THIS GUY  
+ 
+https://github.com/wea-f/ByePassHub op 2000+ PRoxies with games and movie watchers and other cool and good stuff
+
+https://github.com/wea-f/ByePassHub/blob/main/Other%20Ways%20to%20get%20Proxies%20.md  2000+ Proxies op games and other stuff, and even hacks that actually don't work  
+
+https://2pu896.csb.app/ SubPAR MARIiO 64  
+
+
+
+https://preparationixl.global.ssl.fastly.net/ NVM. THE GAME IS UP AGAIN. The webpage at https://db.preparationixl.global.ssl.fastly.net/html/minecraft/index.html  may be temporarily unavailable or have been permanently relocated to a new web address. Or just in general. 
+
+
+
+https://github.com/PucksRevenge27/Eaglercraft-1.8.8 - working without multiplayer https://sites.google.com/view/plet/true-glamer-deodorant-flavoring - find the doc with the files here and at the top of this page.       
+ 
+https://github.com/WebMCDevelopment/yeeloader-releases/releases/tag/v1.5.2 - different loaders of Eagle Craft - doesn't work tho - use web version
+
+
+https://docs.google.com/document/d/1P4z-FddsUPPwe7MWfyzfJ681arEAroB07s2x_V2IaFs/edit?tab=t.0#heading=h.sdzuw0u781k5 - another doc 
+
+
+    https://github.com/Airbus-A330-bruh/THE-GAME-STASH-V2/blob/main/README.txt GitHub version, unfinished.
+
+https://sites.google.com/view/drive-u-7-home/home  -  G7 games  wait almost everyone has this and nows about it in 7th grade, and some of 6th grade  
+
+  https://unblockedgamesg.net/ - doesn't work,  it takes a while to load, idk  
+
+
+https://bellard.org/jslinux/vm.html?url=win2k.cfg&mem=192&graphic=1&w=1024&h=768 - Windows 2000 emulator
+
+
+https://unblockedgamesg.net/   
+https://sites.google.com/view/fractions-are-cool - fraction tools, simplify and multiply fraction calculator. I swear it's not a game <THIS DOES NOT WORK
+https://sites.google.com/view/parts-of-a-cell - cell part notes 
+https://sites.google.com/view/classroom6x
+
+ chrome://network/ - figure it out yourself 
+https://https://unblockedgamesg.net/drive.google.com/fil 
+e/d/1MGVFf8d9pww0M2bO9ogxQX1LyR1y6zc_/view 
+https://github.com/S-PScripts/chromebook-utilities/blob/main/Exploits/Anastrophe%20(rollback%20to%20prev%20ver).txt insane ikr NAH
+
+
+
+
+
+chrome://inspect/#devices - idk either  
+
+Cosh terminal - shift + ctrl+t 
+ DO NOT TRY ANY HACKS!!!
+
+ 
+chrome://serviceworker-internals/ - internals of the service worker 
+I don't know 
+
+
+
+
