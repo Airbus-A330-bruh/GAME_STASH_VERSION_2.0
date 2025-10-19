@@ -59,7 +59,7 @@ https://artmathandmore.7s.com.tr/ - prolly never gonna get blocked bruh
 
 https://softbear.com/  - All games are blocked.
 
-h@cks and pr0xys. This is good, don't let it get blocked, it has op some options
+https://sites.google.com/view/sunsetlearninn/hacks/clear-cookies This is good, don't let it get blocked, it has op some options
  Rammers 6, 8, and 9 work sometimes. 
 
 source code viewer  - can't get blocked, not a game 
@@ -143,6 +143,7 @@ https://bellard.org/jslinux/vm.html?url=win2k.cfg&mem=192&graphic=1&w=1024&h=768
 
 
 https://unblockedgamesg.net/ 
+https://sites.google.com/view/sunsetlearninn/hacks/clear-cookies - h@cks
 https://mragic.github.io/ - recently found, has good games
 https://sites.google.com/view/whitespider/mirrors - nettle web links. btw nettleweb is not receiving updates anymore 
 https://docs.google.com/document/d/1tIQuDcHvuptSb7dmyMsesI-vRtIRPrSZU5WFFPaVwAQ/edit?tab=t.0#heading=h.13iegvoj13r7
