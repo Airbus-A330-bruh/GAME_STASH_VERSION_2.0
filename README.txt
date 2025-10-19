@@ -1,23 +1,21 @@
 Welcome to THE qwertyairbus GAME STASH, WHERE HACKS AND PROXIES  AND PEOPLE TIRED OF SCHOOL BLOCKING THINGS  
 
 SERVICEWORKER METHOD:
-this works on ANY admin extension blocksi goguardian iboss lightspeed, and MORE
+This works on ANY admin extension blocks Goguardian IBoss Lightspeed, and MORE
 
-Requirements(simple almost every chromebook has this)make sure developer tools is blocked, if u dont know if it is or not press ctrl + shift + i on any website and if a menu in the bottom doesnt pop up then its disabled
+Requirements(simple, almost every Chromebook has this): make sure Developer Tools are blocked. If u don't know if it is or not, press Ctrl + Shift + I on any website, and if a menu at the bottom doesn't pop up, then it's disabled
 
-1. go to chrome://serviceworker-internals
+1. Go to chrome://serviceworker-internals
 
-2. enable Open DevTools window and pause JavaScript execution on Service Worker startup for debugging.
+2. Enable the Open DevTools window and pause JavaScript execution on Service Worker startup for debugging.
 
-3. scroll down till u see the chrome extension ID of your adming extension or copy it then press ctrl + f on the serviceworker page and paste it in then hit enter and it will show u it
+3. scroll down till u see the Chrome extension ID of your admin extension or copy it, then press Ctrl + F on the serviceworker page and paste it in, then hit enter, and it will show u it
 
-4. press stop then unregister
+4. Press stop, then unregister
 
-5. some websites wont load up. use https://search.brave.com/ and search up EVERYTHING and open ALL links from there and it will fix any website that uses serviceworker not loading
+5. Some websites won't load up. Use https://search.brave.com/ and search up EVERYTHING, and open ALL links from there, and it will fix any website that uses Service Worker not loading websites, even withBravee will take around 10 seconds to load up. Don't worry, it still works
 
-6. some websites even with brave will take around 10 seconds to load up even after using brave dont worry it still works
-
-7. this resets every time u restart your computer so make sure u do this everytime u restart ur computer or if a website is still blocked
+7. This resets every time u restart your computer, so make sure u do this every time u restart ur computer, er or if a website is still blocked
 
 
 
@@ -32,7 +30,7 @@ THIS IS  A COMPLETELY FREE LIST
 IF YOU PAID  FOR THIS, YOU HAVE BEEN SCAMMED AND YOU SHOULD DEMAND  A REFUND
 
 
-DISCLAIMER- I DO NOT CLAIM all ownership of all  THESE LINKS. All of THE LINKS ARE MINE! 
+DISCLAIMER- I DO NOT CLAIM all ownership of all  THESE LINKS. All of THE LINKS ARE NOT MINE! 
 BY  Airbus A330-bruh and qwerty bird 67
      
 
@@ -53,13 +51,13 @@ https://www.ndtv.com/world-news/jeffrey-epstein-epstein-files-full-list-of-high-
 
 https://docs.google.com/document/d/1_FmH3BlSBQI7FGgAQL59-ZPe8eCxs35wel6JUyVaG8Q/edit?tab=t.0 - This is for online use, as most games require an internet connection to function. Some may not work. This is where you find most of the games and utilities. 
 
-https://eaglercraft.com/mc/1.8.8/ - RIP (it's blocked; get the HTML file instead..) Update - The HTML files are on the stash, but they are broken again. https://eaglecraft.global.ssl.fastly.net/ - WORKING MINERCRAFT. Just change the Wi-Fi to guest
+https://eaglercraft.com/mc/1.8.8/ - RIP (it's blocked; get the HTML file instead..) Update - The HTML files are on the stash, but they are broken again. https://eaglecraft.global.ssl.fastly.net/ - WORKING MINERCRAFT. Just change the Wi-Fi to guest or use the HTML files fam
 
 https://turnfight.com - sometimes works, but I'm not sure anymore.   
 
 https://artmathandmore.7s.com.tr/ - prolly never gonna get blocked bruh
 
-https://softbear.com/  - most games are blocked.   All games are blocked.
+https://softbear.com/  - All games are blocked.
 
 h@cks and pr0xys. This is good, don't let it get blocked, it has op some options
  Rammers 6, 8, and 9 work sometimes. 
@@ -711,11 +709,11 @@ https://dojq2hudgo7sk.cloudfront.net/g/gladihoppers/index.html new pizza edition
 
 https://funner.global.ssl.fastly.net/games/alotofgames/ is very good, as it offers a wide range of games. All of them work, but the link does not work on school wifi. Use another wifi
 
-https://www.myandroid.org/run/start.phphttps://www.myandroid.org/run/start.php  - Android emulator, might instal 10^1e viruses on your computer but its worth it anyway
+https://www.myandroid.org/run/start.phphttps://www.myandroid.org/run/start.php  - Android emulator, might install 10^1e viruses on your computer, but it's worth it anyway
 
 https://puginarug.com/ - not the best game, I assure you it's bunz NO ITS THE BEST GAME DONT LISTEN TO THIS GUY  
  
-https://github.com/wea-f/ByePassHub op 2000+ PRoxies with games and movie watchers and other cool and good stuff
+https://github.com/wea-f/ByePassHub op 2000+ PRoxies with game, movie watchers, and other cool and good stuff
 
 https://github.com/wea-f/ByePassHub/blob/main/Other%20Ways%20to%20get%20Proxies%20.md  2000+ Proxies op games and other stuff, and even hacks that actually don't work  
 
