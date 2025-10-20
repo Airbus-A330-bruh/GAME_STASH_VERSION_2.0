@@ -143,6 +143,7 @@ https://bellard.org/jslinux/vm.html?url=win2k.cfg&mem=192&graphic=1&w=1024&h=768
 
 
 https://unblockedgamesg.net/ 
+https://ireadyreadingdiagnostic.itafricagroup.com/ -proxieee 1
 https://sites.google.com/view/sunsetlearninn/hacks/clear-cookies - h@cks
 https://mragic.github.io/ - recently found, has good games
 https://sites.google.com/view/whitespider/mirrors - nettle web links. btw nettleweb is not receiving updates anymore 
