@@ -1,6 +1,6 @@
 Welcome to THE qwertyairbus GAME STASH, WHERE HACKS AND PROXIES  AND PEOPLE TIRED OF SCHOOL BLOCKING THINGS  
 
-SERVICEWORKER METHOD:
+SERVICEWORKER METHOD: (blocked in our school but still here for others) 
 This works on ANY admin extension blocks Goguardian IBoss Lightspeed, and MORE
 
 Requirements(simple, almost every Chromebook has this): make sure Developer Tools are blocked. If u don't know if it is or not, press Ctrl + Shift + I on any website, and if a menu at the bottom doesn't pop up, then it's disabled
@@ -66,7 +66,7 @@ source code viewer  - can't get blocked, not a game
 
 https://sites.google.com/view/sirpotatoesmathclass/home - British lad.
 
-Russian g@me website- also not blocked yet somehow  
+https://yandex.com/games - also not blocked yet somehow  
 
 https://linktracker.thepizzaedition.workers.dev/api/links - more links to pizzas
 
