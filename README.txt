@@ -1,6 +1,6 @@
 Welcome to THE qwertyairbus GAME STASH, WHERE HACKS AND PROXIES  AND PEOPLE TIRED OF SCHOOL BLOCKING THINGS  
 
-SERVICEWORKER METHOD: (blocked in our school but still here for others) 
+SERVICEWORKER METHOD: (blocked in our school, but still here for others) 
 This works on ANY admin extension blocks Goguardian IBoss Lightspeed, and MORE
 
 Requirements(simple, almost every Chromebook has this): make sure Developer Tools are blocked. If u don't know if it is or not, press Ctrl + Shift + I on any website, and if a menu at the bottom doesn't pop up, then it's disabled
@@ -143,11 +143,12 @@ https://bellard.org/jslinux/vm.html?url=win2k.cfg&mem=192&graphic=1&w=1024&h=768
 
 
 https://unblockedgamesg.net/ 
-tomschoolery.vercel.app - sucks but its something
+https://script.google.com/macros/s/AKfycbyAS354LVBaLfvjLfMoHcwWw9C6h_JOVsOhcqFpB6lPypUyMc4MP_pEjBAVwyD7xhU/exec - it has a lot of stuffs
+tomschoolery.vercel.app - sucks, but it's something
 https://ireadyreadingdiagnostic.itafricagroup.com/ -proxieee 1
 https://sites.google.com/view/sunsetlearninn/hacks/clear-cookies - h@cks
 https://mragic.github.io/ - recently found, has good games
-https://sites.google.com/view/whitespider/mirrors - nettle web links. btw nettleweb is not receiving updates anymore 
+https://sites.google.com/view/whitespider/mirrors - nettle web links. bt,w nettleweb is not receiving updates anymore 
 https://docs.google.com/document/d/1tIQuDcHvuptSb7dmyMsesI-vRtIRPrSZU5WFFPaVwAQ/edit?tab=t.0#heading=h.13iegvoj13r7
 https://sites.google.com/view/fractions-are-cool - fraction tools, simplify and multiply fraction calculator. I swear it's not a game 
 https://sites.google.com/view/parts-of-a-cell - cell part notes 
