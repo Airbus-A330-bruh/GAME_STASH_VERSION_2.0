@@ -142,8 +142,14 @@ I don't know
 https://bellard.org/jslinux/vm.html?url=win2k.cfg&mem=192&graphic=1&w=1024&h=768 - Windows 2000 emulator
 
 
-https://unblockedgamesg.net/ 
-https://script.google.com/macros/s/AKfycbyAS354LVBaLfvjLfMoHcwWw9C6h_JOVsOhcqFpB6lPypUyMc4MP_pEjBAVwyD7xhU/exec - it has a lot of stuffs
+https://unblockedgamesg.net/ https://cdn.i-ready.com/instruction/reward-games/v1.3.x/2/game-lanerunner/ galaxy runner from i ready 
+https://cdn.i-ready.com/instruction/game-catstacker/1.6.x/2/ - cat stack from i ready
+https://cdn.i-ready.com/instruction/game-hpr/1.4.x/2/ - i ready
+https://cdn.i-ready.com/instruction/reward-games/v1.3.x/2/game-bubbles/
+https://cdn.i-ready.com/instruction/reward-games/v1.3.x/2/game-minedigger/
+https://cdn.i-ready.com/instruction/game-begooped/1.3.x/2/
+https://nativegames.netlify.app/ - going away soon, and the new one is blocked...
+https://script.google.com/macros/s/AKfycbyAS354LVBaLfvjLfMoHcwWw9C6h_JOVsOhcqFpB6lPypUyMc4MP_pEjBAVwyD7xhU/exec - it has a lot of stuff
 tomschoolery.vercel.app - sucks, but it's something
 https://ireadyreadingdiagnostic.itafricagroup.com/ -proxieee 1
 https://sites.google.com/view/sunsetlearninn/hacks/clear-cookies - h@cks
