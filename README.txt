@@ -143,6 +143,8 @@ https://bellard.org/jslinux/vm.html?url=win2k.cfg&mem=192&graphic=1&w=1024&h=768
 
 
 https://unblockedgamesg.net/ https://cdn.i-ready.com/instruction/reward-games/v1.3.x/2/game-lanerunner/ galaxy runner from i ready 
+https://alwaysgoobus.github.io/HTEMEL/minesweeper.html
+https://alwaysgoobus.github.io/HTEMEL/snake.html - snek
 https://cdn.i-ready.com/instruction/game-catstacker/1.6.x/2/ - cat stack from i ready
 https://cdn.i-ready.com/instruction/game-hpr/1.4.x/2/ - i ready
 https://cdn.i-ready.com/instruction/reward-games/v1.3.x/2/game-bubbles/
