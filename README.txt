@@ -143,6 +143,11 @@ https://bellard.org/jslinux/vm.html?url=win2k.cfg&mem=192&graphic=1&w=1024&h=768
 
 
 https://unblockedgamesg.net/ https://cdn.i-ready.com/instruction/reward-games/v1.3.x/2/game-lanerunner/ galaxy runner from i ready 
+https://block-blast.bitbucket.io/ - another block blast looking ahh clone 
+https://eggy-car-unblocked.github.io/ - eggy cawr
+
+https://unblocked-games-g-plus.bitbucket.io/#google_vignette - I don't know anymor,e fam
+https://unblocked-games-76.bitbucket.io/ - 67 
 https://alwaysgoobus.github.io/HTEMEL/minesweeper.html
 https://alwaysgoobus.github.io/HTEMEL/snake.html - snek
 https://cdn.i-ready.com/instruction/game-catstacker/1.6.x/2/ - cat stack from i ready
@@ -152,7 +157,7 @@ https://cdn.i-ready.com/instruction/reward-games/v1.3.x/2/game-minedigger/
 https://cdn.i-ready.com/instruction/game-begooped/1.3.x/2/
 https://nativegames.netlify.app/ - going away soon, and the new one is blocked...
 https://script.google.com/macros/s/AKfycbyAS354LVBaLfvjLfMoHcwWw9C6h_JOVsOhcqFpB6lPypUyMc4MP_pEjBAVwyD7xhU/exec - it has a lot of stuff
-tomschoolery.vercel.app - sucks, but it's something
+tomschoolery. vercel.app - sucks, but it's something
 https://ireadyreadingdiagnostic.itafricagroup.com/ -proxieee 1
 https://sites.google.com/view/sunsetlearninn/hacks/clear-cookies - h@cks
 https://mragic.github.io/ - recently found, has good games
