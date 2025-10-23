@@ -149,6 +149,7 @@ https://eggy-car-unblocked.github.io/ - eggy cawr
 https://unblocked-games-g-plus.bitbucket.io/#google_vignette - I don't know anymore,e fam
 https://unblocked-games-76.bitbucket.io/ - 67 
 https://www.winfy.net/ - linux ig 
+https://geometrydash-pc.io/ geometry dash
 https://alwaysgoobus.github.io/HTEMEL/minesweeper.html
 https://alwaysgoobus.github.io/HTEMEL/snake.html - snek
 https://cdn.i-ready.com/instruction/game-catstacker/1.6.x/2/ - cat stack from i ready
