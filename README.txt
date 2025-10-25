@@ -172,6 +172,7 @@ https://cdn.i-ready.com/instruction/game-begooped/1.3.x/2/
 https://nativegames.netlify.app/ - going away soon, and the new one is blocked...
 https://script.google.com/macros/s/AKfycbyAS354LVBaLfvjLfMoHcwWw9C6h_JOVsOhcqFpB6lPypUyMc4MP_pEjBAVwyD7xhU/exec - it has a lot of stuff
 tomschoolery. vercel.app - sucks, but it's something
+https://learningbooks.vercel.app/?utm_source=ubghub.org&utm_medium=referral&utm_campaign=ubghub.org -pretty good actually 
 https://ireadyreadingdiagnostic.itafricagroup.com/ -proxieee 1
 https://sites.google.com/view/sunsetlearninn/hacks/clear-cookies - h@cks
 https://mragic.github.io/ - recently found, has good games
