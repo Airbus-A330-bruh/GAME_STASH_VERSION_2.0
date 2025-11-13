@@ -37,15 +37,6 @@ BY  Airbus A330-bruh and qwerty bird 67
 
 Don’t mess anything up; use the links and add more as needed.
 
-Guys, I have some news 
-https://www.documentcloud.org/documents/6250471-Epstein-Docs/.
-More illegal files, well just one more https://www.justice.gov/usao-sdny/media/1368556/dl  aint no party like 
-a diddy party 
-Oh yeah, one more file https://www.scribd.com/document/673393994/The-GTA-VI-Document-v1-0. your welcome     
-The people who are the Epstein files warning illegal BUT STILL CLICK ON IT I DARE https://www.documentcloud.org/documents/6250471-Epstein-Docs/ and
-https://www.ndtv.com/world-news/jeffrey-epstein-epstein-files-full-list-of-high-profile-people-named-in-unsealed-court-docs-4810003 
-
-
 
 
 
@@ -228,12 +219,6 @@ Don’t mess anything up; just use the links and add more as needed.
 
           IEJ HOLY  Ultimate Game Stash no don't use this. The official is much better and updated
  
-Guys, I have some news 
-https://www.documentcloud.org/documents/6250471-Epstein-Docs/.
-More illegal files, well just one more https://www.justice.gov/usao-sdny/media/1368556/dl  aint no party like 
-a diddy party 
-Oh yeah, one more file https://www.scribd.com/document/673393994/The-GTA-VI-Document-v1-0. your welcome     
-The people who are the Epstein files warning illegal BUT STILL CLICK ON IT I DARE https://www.ndtv.com/world-news/jeffrey-epstein-epstein-files-full-list-of-high-profile-people-named-in-unsealed-court-docs-4810003.  
 
 
 
