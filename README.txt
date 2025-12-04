@@ -321,3 +321,4 @@ I don't know
 
 https://www.plex.tv/watch-free-tv/for free can watch almost anything
 
+https://freenoteducation.mooo.com/ asteriod click dictionary
