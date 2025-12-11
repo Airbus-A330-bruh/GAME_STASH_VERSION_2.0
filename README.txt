@@ -1,5 +1,8 @@
 Welcome to THE qwertyairbus GAME STASH, WHERE HACKS AND PROXIES  AND PEOPLE TIRED OF SCHOOL BLOCKING THINGS  
 
+
+JOIN THE DISCORD - https://discord.gg/M3Vf8rEqkp
+
 SERVICEWORKER METHOD: (blocked in our school, but still here for others) 
 This works on ANY admin extension blocks Goguardian IBoss Lightspeed, and MORE
 
