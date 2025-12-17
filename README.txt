@@ -329,3 +329,5 @@ https://www.plex.tv/watch-free-tv/for free can watch almost anything
 https://freenoteducation.mooo.com/ asteroid click dictionary 
 
 https://freedns.afraid.org/subdomain/ - make mirrors here
+
+https://anothachristmasgift.dinprima.ro/ galaxy v6
